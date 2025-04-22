@@ -1,0 +1,188 @@
+### 🧠 1. **Google**
+**Industry:** Tech (Product-based)  
+**Roles:** Software Engineer, Product Manager, Data Scientist
+
+**Hiring Process:**
+1. **Online Application**
+2. **Resume Screening by Recruiters**
+3. **Online Assessment (e.g., coding via HackerRank/Google's platform)**
+4. **Technical Phone Interviews (2 Rounds)**
+5. **On-site Interviews (4-5 rounds):**
+   - Data Structures & Algorithms
+   - System Design
+   - Behavioral (Googliness)
+   - Role-Specific Round
+6. **Hiring Committee Review**
+7. **Team Matching**
+8. **Offer Rollout**
+9. **Background Verification**
+10. **Onboarding**
+
+---
+
+### 💼 2. **McKinsey & Company**
+**Industry:** Management Consulting  
+**Roles:** Associate, Business Analyst
+
+**Hiring Process:**
+1. **Online Application + Resume**
+2. **Problem-Solving Game (PST)**
+3. **HR Screening Call**
+4. **First Round Interviews:**
+   - Two 45-min Case Interviews
+5. **Final Round Interviews:**
+   - Two 45-min Case + Personal Experience Interviews
+6. **Partner Review**
+7. **Offer Letter**
+8. **Document Submission**
+9. **Pre-Onboarding Webinar**
+10. **Onboarding**
+
+---
+
+### 🧾 3. **Goldman Sachs**
+**Industry:** Investment Banking  
+**Roles:** Analyst, Software Developer, Quant
+
+**Hiring Process:**
+1. **Application through GS Careers/Referrals**
+2. **Aptitude Test / HackerRank Coding Round**
+3. **Technical Interview (1-2 rounds)**
+4. **HR Screening Interview**
+5. **Superday (Final Round):**
+   - 3-4 interviews (Technical, Behavioral, Role-fit)
+6. **Team Fit Discussion**
+7. **Offer Letter**
+8. **Background & Financial Verification**
+9. **Pre-Joining Orientation**
+10. **Onboarding Day**
+
+---
+
+### 💻 4. **Microsoft**
+**Industry:** Tech (Product-based)  
+**Roles:** Software Engineer, Product Manager, Research Intern
+
+**Hiring Process:**
+1. **Resume Submission / Campus Hiring**
+2. **Online Coding Round (via Codility or HackerRank)**
+3. **Technical Interview 1 (DSA + Problem Solving)**
+4. **Technical Interview 2 (System Design or Project-based)**
+5. **Managerial Round**
+6. **HR Round**
+7. **Feedback Consolidation**
+8. **Offer Rollout**
+9. **Pre-Employment Checks**
+10. **Joining Formalities & Onboarding**
+
+---
+
+### 📦 5. **Amazon**
+**Industry:** Tech / E-commerce  
+**Roles:** SDE, Data Engineer, Ops Manager
+
+**Hiring Process:**
+1. **Application / Campus Placement**
+2. **Online Assessment (OA - 3 DSA problems + Work Simulation)**
+3. **Technical Interview Round 1 (DSA + LLD)**
+4. **Technical Interview Round 2 (HLD + Behavioral)**
+5. **Bar Raiser Round (Cultural & Technical Depth)**
+6. **Managerial Interview**
+7. **Final Review**
+8. **Offer Letter**
+9. **Employment Verification**
+10. **Onboarding Training (Day 1 Amazonian Program)**
+
+---
+
+### 📱 6. **TCS (Tata Consultancy Services)**
+**Industry:** IT Services  
+**Roles:** Associate Software Engineer, Analyst
+
+**Hiring Process:**
+1. **Application via TCS NQT / Campus**
+2. **TCS National Qualifier Test (NQT):**
+   - Verbal, Quant, Logical, Programming Logic
+3. **Technical Interview**
+4. **Managerial Interview**
+5. **HR Interview**
+6. **Document Verification**
+7. **Offer Release via NextStep Portal**
+8. **Pre-Joining Modules**
+9. **Joining Letter**
+10. **ILP (Initial Learning Program)**
+
+---
+
+### 📊 7. **Deloitte**
+**Industry:** Consulting / Tech Advisory  
+**Roles:** Analyst, Consultant, Risk Advisory
+
+**Hiring Process:**
+1. **Online Application**
+2. **Aptitude and Logical Reasoning Test**
+3. **Group Discussion or JAM (depending on role)**
+4. **Technical Interview (based on role: coding/analytics)**
+5. **HR + Managerial Round**
+6. **Team Allocation Discussion**
+7. **Offer Letter**
+8. **Background Check**
+9. **Joining Formalities**
+10. **Welcome & Orientation Program**
+
+---
+
+### 🤖 8. **Infosys**
+**Industry:** IT Services  
+**Roles:** System Engineer, Analyst
+
+**Hiring Process:**
+1. **Infosys Recruitment Test (Online):**
+   - Quant, Logical, Verbal, Pseudocode
+2. **Coding Test (2 Problems)**
+3. **Technical Interview**
+4. **HR Interview**
+5. **Result Announcement**
+6. **Offer Letter via Launchpad**
+7. **Document Verification**
+8. **Pre-Joining Training**
+9. **Joining Call**
+10. **Onboarding**
+
+---
+
+### 📱 9. **Flipkart**
+**Industry:** E-Commerce / Tech  
+**Roles:** SDE, Analyst, Business Manager
+
+**Hiring Process:**
+1. **Resume Screening**
+2. **Coding Assessment**
+3. **Technical Round 1 (Problem Solving + DSA)**
+4. **Technical Round 2 (System Design + Project Discussion)**
+5. **Hiring Manager Round**
+6. **HR Round**
+7. **Offer Letter**
+8. **Pre-Onboarding Email Communication**
+9. **Documentation Process**
+10. **Joining Kit & Orientation**
+
+---
+
+### 🔬 10. **IBM**
+**Industry:** Tech & Consulting  
+**Roles:** Associate Developer, Data Scientist
+
+**Hiring Process:**
+1. **Application via IBM Careers / Referral**
+2. **Cognitive Ability Test + Coding Test**
+3. **Technical Interview**
+4. **Behavioral / Managerial Interview**
+5. **Final HR Round**
+6. **Feedback Review**
+7. **Offer Release**
+8. **Document Verification**
+9. **Watson Candidate Portal Briefing**
+10. **Onboarding Day**
+
+---
